@@ -1,22 +1,28 @@
 body
 {
 	font-family: calibri;
+	background-color: #0c0c3c;
 }
 .Titulo
 {
 	text-align: center;
+	color: white;
 
 }
 .caja
 {
 	justify-content: center;
 	text-align: center;
-	
+	color: white;
 }
 .lik
 {
 	text-decoration: none;
-	color: black;
 	position: relative;
 	left: 45%;
+	color: white;
+}
+.Par
+{
+	color: white;
 }
