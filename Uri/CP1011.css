@@ -1,0 +1,22 @@
+body
+{
+	font-family: calibri;
+}
+.Titulo
+{
+	text-align: center;
+
+}
+.caja
+{
+	justify-content: center;
+	text-align: center;
+	
+}
+.lik
+{
+	text-decoration: none;
+	color: black;
+	position: relative;
+	left: 45%;
+}

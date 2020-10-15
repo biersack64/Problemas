@@ -1,0 +1,34 @@
+body
+{
+	background-color: #0c0c3c 
+}
+.Titulo
+{
+	font-family: arial;
+	text-align: center;
+	color: white;
+}
+.texto
+{
+	font-family: arial;
+	text-align: center;
+	color:white;
+}
+.lik
+{
+	position: relative;
+	left: 43%; 
+	text-decoration: none;
+	color: white;
+	font-size: 2em;
+}
+.Cuerpo
+{
+	justify-content: center;
+	margin-top: 10em;
+}
+.decoro
+{ 
+	border-radius: 50px;
+	background-color: #0000FF;
+}
